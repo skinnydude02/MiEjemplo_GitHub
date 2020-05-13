@@ -18,6 +18,10 @@ public class Ejemplo_GitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Bienvenidoooooos");
+        System.out.println("Welcome");
+        System.out.println("Konichiwa");
+        System.out.println("Hola a todos, este es un cambio");//Primera actualizacion desde GitHub
     }
     
 }
